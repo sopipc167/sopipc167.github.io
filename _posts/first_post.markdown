@@ -1,7 +1,5 @@
-layout	title	date	categories
-post
-Welcome to Jekyll!
-2022-11-19 22:04:43 +0900
-jekyll update
+layout: post 
+title: 나의 첫번째 포스트
+comments:true
 
 Hello
