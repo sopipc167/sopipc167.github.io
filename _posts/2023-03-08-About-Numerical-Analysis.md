@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: 
+tags:
 -Numerical Analysis
 -jekyll
 title: 부동소수점(floating point)
