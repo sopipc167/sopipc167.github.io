@@ -1,6 +1,8 @@
 ---
 layout: post
-tag: Numerical Analysis
+tags: 
+-Numerical Analysis
+-jekyll
 title: 부동소수점(floating point)
 date: 2023-03-08 15:07 +09:00
 ---
